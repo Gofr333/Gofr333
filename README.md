@@ -1,14 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm Gofr
 
-👋 Hey, I'm Gofr
-
-I'm currently learning Python 🐍
+I'm currently learning **Python** 🐍  
 Building small projects and improving my programming skills step by step.
 
-🛠️ [My Skills]
-(https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-📚 About me
-🌱 Currently learning Python
-🐍 Focused on improving my programming skills
-🔧 Interested in scripts, automation and useful tools
-🚀 Building projects to learn by practice
+## 🛠️ My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+## 📚 About me
+
+- 🌱 Currently learning Python
+- 🐍 Focused on improving my programming skills
+- 🔧 Interested in scripts and automation
+- 🚀 Building projects to learn by practice
