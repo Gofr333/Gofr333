@@ -6,7 +6,7 @@ I'm currently learning Python 🐍
 Building small projects and improving my programming skills step by step.
 
 🛠️ [My Skills]
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 📚 About me
 🌱 Currently learning Python
 🐍 Focused on improving my programming skills
