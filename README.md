@@ -5,7 +5,7 @@ Building small projects and improving my programming skills step by step.
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git)](https://skillicons.dev)
 
 ## 📚 About me
 
