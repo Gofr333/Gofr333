@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 👋 Hey, I'm Gofr
 
@@ -33,4 +33,4 @@
 
 ### 🐍 `print("Learning something new every day!")`
 
-
+</div>
