@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,c++,html,git,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,git,vscode,pycharm)](https://skillicons.dev)
 
 <br>
 
